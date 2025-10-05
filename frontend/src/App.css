@@ -1,0 +1,9 @@
+body {
+  background: #e30000;
+}
+.rounded-4 {
+  border-radius: 1.5rem !important;
+}
+.shadow-sm {
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08) !important;
+}
